@@ -87,7 +87,7 @@ No known bugs exists within the program as of this writing.
 ## Authors
 Joseph Onyeike | [josephonyeike11@gmail.com](https://https://github.com/Affluent11)
 
- |Lehlohonolo Pretorius [](https://github.com/)
+ |Lehlohonolo Pretorius [pretorius1724@gmail.com](https://github.com/Lehlohonol)
 
 ## License
 Given the open source nature of the project, no special licenses or license whatsoever is needed to use, modify, and redistribute the simple_shell program.
