@@ -1,5 +1,5 @@
 This is a Software Engineering (group) project of ALX Holberton school. In this project, 
-Joaeph Onyeike and Lehlohonolo Pretorius collaborated to simulate the functionalities of a simple Unix shell.
+Joseph Onyeike and Lehlohonolo Pretorius collaborated to simulate the functionalities of a simple Unix shell.
 
 ## About
 The shell is the Linux command line interpreter. It provides an interface between the user and the kernel and executes programs called commands. For example, if a user enters `ls` then the shell executes the `ls` command.
