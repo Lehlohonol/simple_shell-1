@@ -85,9 +85,9 @@ $
 No known bugs exists within the program as of this writing.
 
 ## Authors
-Chuks Stephen | [@stephenchumphrey@yahoo.com](https://https://github.com/stephenchuks)
+Joseph Onyeike | [josephonyeike@gmail.com](https://https://github.com/Affluent11)
 
-Monday Odoh | [@mondayodoh94@gmail.com](https://github.com/Monemax94)
+ |Lehlohonolo Pretorius [](https://github.com/)
 
 ## License
 Given the open source nature of the project, no special licenses or license whatsoever is needed to use, modify, and redistribute the simple_shell program.
