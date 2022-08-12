@@ -8,7 +8,7 @@
 
 int main(void)
 {
-	int num1
+	int num1;
 	float score1;
 	double score2;
 
