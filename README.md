@@ -1,10 +1,10 @@
 This is a Software Engineering (group) project of ALX Holberton school. In this project, 
-Chuks Stephen and Monday Odoh collaborated to simulate the functionalities of a simple Unix shell.
+Joaeph Onyeike and Lehlohonolo Pretorius collaborated to simulate the functionalities of a simple Unix shell.
 
 ## About
 The shell is the Linux command line interpreter. It provides an interface between the user and the kernel and executes programs called commands. For example, if a user enters `ls` then the shell executes the `ls` command.
 
-This project, `simple_shell`, is a custom implementation of a simple UNIX shell as a requirement to complete the first sprint in the ALX - Holberton school 12-month SE program. Taking a minimalistic approach, the following functions have been implemented: `access, execve, exit, fork, free, fstat, getline, malloc, perror, signal, stat, wait, write.`
+This project, "simple_shell", is a custom implementation of a simple UNIX shell as a requirement to complete the first sprint in the ALX - Holberton school 12-month SE program. Taking prerequisite approach, the following functions have been implemented: 'access, execve, exit, fork, free, fstat, getline, malloc, perror, signal, stat, wait, write'.
 
 ## Table of Contents
 * [About](#About)
@@ -85,7 +85,7 @@ $
 No known bugs exists within the program as of this writing.
 
 ## Authors
-Joseph Onyeike | [josephonyeike@gmail.com](https://https://github.com/Affluent11)
+Joseph Onyeike | [josephonyeike11@gmail.com](https://https://github.com/Affluent11)
 
  |Lehlohonolo Pretorius [](https://github.com/)
 
